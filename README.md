@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Clarke (they/them)
 
-##I am a creative Front End Developer, a puzzle-loving problem solver, an avid ukulele player, and life-long lover of learning all things.
+## I am a creative Front End Developer, a puzzle-loving problem solver, an avid ukulele player, and life-long lover of learning all things.
 CSS is my happy place
 
 <!--
